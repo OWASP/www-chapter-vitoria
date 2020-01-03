@@ -1,6 +1,17 @@
-<!--### Chapter Information
-* Chapter Region
+### [GROUPNAME] Information
+* [Flagship Project](#)
+* [Tool Project](#)
+* [Version 2.8.0](#)
+* [Builder](#)
+* [Breaker](#)
 
-### Social Links
+### Downloads or Social Links
+* [Download](#)
 * [Meetup](#)
-* [Social Link](#)-->
+
+### Code Repository
+* [repo](#)
+
+### Change Log
+* [changes](#)
+
