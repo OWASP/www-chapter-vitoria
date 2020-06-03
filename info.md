@@ -7,7 +7,7 @@
 
 ### Downloads or Social Links
 * [Download](#)
-* [Meetup](#)
+* [Meetup](https://www.meetup.com/owasp-capixaba/)
 
 ### Code Repository
 * [repo](#)
