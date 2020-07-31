@@ -6,6 +6,9 @@ tags: participation-tag sponsorship-tag
 level: 0
 
 region: South America
+meetup-group: owasp-capixaba
+country: Brazil
+postal-code: 
 
 ---
 
