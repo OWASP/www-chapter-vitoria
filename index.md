@@ -28,7 +28,7 @@ hope you can join us in accomplishing that.
 We are host one off events and workshops around town.
 
 Have a look at [our calendar of awesome
-events](https://www.meetup.com/pt-BR/owasp-capixaba/) and join us\!
+events](https://linktr.ee/owaspvix) and join us\!
 
 ## Already happened
 
