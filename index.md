@@ -33,10 +33,15 @@ events](https://www.meetup.com/pt-BR/owasp-capixaba/) and join us\!
 ## Already happened
 
 09/29/2020 - [Arquitetura Segura com OWASP SAMM](https://www.youtube.com/watch?v=X79awOv650A) - Speaker: Renato Rapozo
+
 09/29/2020 - [Analise de Trafego em IoTs e Riscos Associados a dispositivos não confiaveis em Redes](https://www.youtube.com/watch?v=X79awOv650A) - Speaker: Ubirajara Aguiar Jr
+
 07/28/2020 - [Desenvolvimento APIs seguras com .NET Core e Azure](https://www.youtube.com/watch?v=LG3PznUUJsQ) - Speaker: Henrique Mauri
+
 07/28/2020 - [Gerenciamento de APIs no Azure com Active Directory B2C](https://www.youtube.com/watch?v=LG3PznUUJsQ) - Speaker: Augusto Nunes
+
 06/30/2020 - [Gestão de Acesso em tempos de SaaS](https://www.youtube.com/watch?v=ECU5sW48svw) - Speaker: Moises Margotto
+
 06/30/2020 - [Fundamentals for Secure Software Development](https://www.youtube.com/watch?v=ECU5sW48svw) - Speaker: Andre Henrique
 
 ## Our Sponsors
