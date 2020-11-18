@@ -44,6 +44,13 @@ events](https://linktr.ee/owaspvix) and join us\!
 
 06/30/2020 - [Fundamentals for Secure Software Development](https://www.youtube.com/watch?v=ECU5sW48svw) - Speaker: Andre Henrique
 
+05/24/2020 - [OWASP LATAM@Home 2020 (PT-BR) - Jance Luiz - Risco Próximo, Próximo Risco: Segurança em Endpoint](https://www.youtube.com/watch?v=JABMvGU7swU&ab_channel=OWASPLATAM)
+
+05/16/2020 - [OWASP LATAM@Home 2020 (PT-BR) - Zoziel Freire - Red Team x Blue Team](https://www.youtube.com/watch?v=FTDuadD6bTg&ab_channel=OWASPLATAM)
+
+05/14/2020 - [OWASP LATAM@Home 2020 (PT-BR) - Ulysses Monteiro - Ransomware, "Sem resgate"](https://www.youtube.com/watch?v=hHyQ92jmTRo&ab_channel=OWASPLATAM)
+
+
 ## Our Sponsors
 
 We would like to invite the companies that wants help us providing 
