@@ -51,7 +51,7 @@ events](https://linktr.ee/owaspvix) and join us\!
 05/14/2020 - [OWASP LATAM@Home 2020 (PT-BR) - Ulysses Monteiro - Ransomware, "Sem resgate"](https://www.youtube.com/watch?v=hHyQ92jmTRo&ab_channel=OWASPLATAM)
 
 
-## Our Sponsors
+## Our Supporters
 
 We would like to invite the companies that wants help us providing 
 space, pizza and pop, and helping us with our mission to enrich
