@@ -30,6 +30,8 @@ We are host one off events and workshops around town.
 Have a look at [our calendar of awesome
 events](https://linktr.ee/owaspvix) and join us\!
 
+{% include chapter_events.html group=page.meetup-group %}
+
 ## Already happened
 
 09/29/2020 - [Arquitetura Segura com OWASP SAMM - Renato Rapozo](https://www.youtube.com/watch?v=X79awOv650A) 
