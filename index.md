@@ -34,6 +34,30 @@ events](https://linktr.ee/owaspvix) and join us\!
 
 ## Already happened
 
+24/04/2024 - [Segurança Digital: Navegando com Confiança em um Mundo de Cyber Fraudes](https://www.youtube.com/watch?v=PWSXzvYsAew) 
+
+11/12/2023 - [Fundamentos e as Melhores Práticas da Inteligência de Ameaças Cibernéticas na Prevenção de Ataques](https://www.youtube.com/watch?v=euurqPPDOK8) 
+
+10/10/2023 - [OPSEC/OSINT](https://www.youtube.com/watch?v=KIl2lXj-aPc) 
+
+26/09/2023 - Carreira em Segurança da Informação - FAESA 
+
+15/12/2022 - [Red Team - Técnicas de Reconhecimento](https://www.youtube.com/watch?v=TR4lfIMyXvk) 
+
+28/11/2022 - [Instrumentando Aplicações Cross-Platform com reFlutter + Frida](https://www.youtube.com/watch?v=m62K67ek_gg) 
+
+08/11/2022 - [ADCS - O Domain Admin é logo ali](https://www.youtube.com/watch?v=c5rwWXjnUHY) 
+
+27/09/2022 - [Resiliência Cibernética: Uma estratégia contra a ameaça fantasma](https://www.youtube.com/watch?v=L7WVPwmBZpU)
+
+07/12/2021 - [Automatizando Resposta à Incidente com The Hive & Cortex](https://www.youtube.com/watch?v=PXclkSHvsuQ) 
+
+28/07/2021 - [Técnicas de Automação em Pentest Web](https://www.youtube.com/watch?v=ITQYr2GL8Sw) 
+
+28/04/2021 - [Pentesting API's 101 - The Starter Pack](https://www.youtube.com/watch?v=wugLdoVjoDw) 
+
+24/03/2021 - [Práticas da OWASP para Testes em Segurança Web](https://www.youtube.com/watch?v=FhyLmDBdIO0) 
+
 09/29/2020 - [Arquitetura Segura com OWASP SAMM - Renato Rapozo](https://www.youtube.com/watch?v=X79awOv650A) 
 
 09/29/2020 - [Analise de Trafego em IoTs e Riscos Associados a dispositivos não confiaveis em Redes - Ubirajara Aguiar Jr](https://www.youtube.com/watch?v=X79awOv650A) 
