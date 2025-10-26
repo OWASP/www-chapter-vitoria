@@ -1,0 +1,22 @@
+leaders:
+  - name: Jance Luiz
+    email: jance.luiz@owasp.org
+    github: janceluizowasp
+location:
+  country: Brazil
+  country_code: BR
+  region: Espírito Santo
+  city: Vitoria
+  latitude: -20.3200917
+  longitude: -40.3376682
+meetup_group: owasp-capixaba
+name: OWASP Vitoria
+repositories:
+  - name: www-chapter-vitoria
+    url: https://github.com/OWASP/www-chapter-vitoria
+    description: OWASP Foundation Web Repository
+tags:
+  - participation-tag
+  - sponsorship-tag
+  - custom-tag-1
+website: https://owasp.org/www-chapter-vitoria
